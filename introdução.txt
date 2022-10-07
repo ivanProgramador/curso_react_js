@@ -1,0 +1,21 @@
+React é um framework usado para a mnipulação de componentes para fazer isso ele usa um recurso chamado 
+DOM virtual que serve para dividir a pagina em blocos cada bloco corresponde a um componente, 
+sendo assim ele pode ser atualizado sem que seja nessario a atualização de toda a pagina.
+
+Esse framework de forma geral trabalha em cima do OM original da pagina ele mapeia e depois
+cria o seu porrio dom virtual e assim ele pode assumir o controle de todos so compomentes 
+declarados e apontados pelo usuario conforma a necessidade do projeto em questão.
+
+Oque é um componete ? 
+
+Um componete para o react e qualquer tag de uma pagina seja ele paragrafo, botão, janela,
+em fim tudo oque se pode ter na interface do site, a ideia do react é atualizar o texto
+,cor, comportemento de qualquer elemento em tempo real sem que seja necessaria uma nova
+requisição ou o carregamento da pagina inteira para isso.Um componente é unico  alteração dele
+não afeta os outros presentes na pagina.
+
+
+
+
+
+
