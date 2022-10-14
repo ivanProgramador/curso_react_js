@@ -145,9 +145,22 @@ CONCEITO DE COMPONENTE PARA O REACT
         state -> pertence ao componete e somente o componete que possui ele pode 
                  manipular o objeto state.
 
-        --------------------------------------------------------------
+--------------------------------------------------------------
 
-        
+preparando o ambiente da maquina para rodar o react 
+
+1 - node js (instalar)(equivale a uma runtime para js)
+
+2 - chocolatei(instalar)(é um gerenciador de pacotes)(ele baixa sozinho)
+
+3 - code runer (extensão do vs code) dracula(extensão do vs code)
+
+4 - material icon theme(identifica os aruivos usando os icones correspondentes)
+
+
+
+
+
 
 
      
