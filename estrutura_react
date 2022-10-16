@@ -1,0 +1,16 @@
+Um a aplicação react basica e composta por 3 pastas e 4 arquivos
+
+Pasta node_modules
+  contem os diretorios de todos os mosdulos que eventuamente saõ baixados para executar na aplicação 
+Pasta public 
+  contem os arquivos que são mostrados na parte externa como o html de entrada, imagens, logotipos,icones 
+Pasta src
+  contem os arquivos de scrpt responsaveis pela estrutura logica da aplicação é onde referenciamos as biliotecas 
+  para colocar pra rodar a parte logica 
+Arquivo package.json 
+  é basicamente uma lista das biliotecas instaladas no porjeto esse aruivo atauliza conforme novas biblkio tecas vão chegando 
+
+package-lock
+  me parece um aruivo de configuração mostra as bibliotecas que estão nas dependencias porem parece que ele tambem controla algumas 
+  configurações.
+  
